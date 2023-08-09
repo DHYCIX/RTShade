@@ -8,7 +8,7 @@ A collection of ReShade ray tracing shader presets, robust against depth buffer 
 = INSTALLATION =
 1. Download the latest release of this preset collection.
 2. From the folder '1. REST', extract the files ReshadeEffectShaderToggler.addon32 and ReshadeEffectShaderToggler.addon64 to the game's folder where the executable file is located that runs the game.
-3. From the folder '2. RTShade', extract the specific .ini file(s) for the game you want to modify to the same folder.
+3. From the folder '2. RTShade', open the folder that's named after the game you want to modify and extract the .ini file(s) to the same folder as in the step before.
 4. Visit https://reshade.me and download the latest ReShade installation file.
 5. Execute the downloaded file and follow the instructions. When asked for a preset file to include, chose the file you just downloaded from this repository.
 6. Finish up the installation and start the game.
