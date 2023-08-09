@@ -19,4 +19,4 @@ A collection of ReShade ray tracing shader presets, robust against depth buffer 
 
 Q: ReShade doesn't launch when I start my game.
 
-A: Hit 'Ctrl + Alt + Del', switch to 'Details' and find the game's executable file. Sometimes the game's true executable is called something like 'Game-Win64-Shipping.exe' instead of which file you chose when installing ReShade to the game's main folder. Right-click the process and click again on 'Open File Location'. Now that you know the true .exe's folder, repeat the installation steps above chosing this file as target for the install instructions instead.
+A: Hit 'Ctrl + Alt + Del', switch to 'Details' and find the game's executable file. Sometimes the game's true executable is called something like 'Game-Win64-Shipping.exe' instead of which file you chose when installing ReShade to the game's main folder. Right-click the process and click again on 'Open File Location'. Now that you know the true .exe's folder, repeat the installation steps above chosing this file as target for the install instructions instead. For further help consult https://www.pcgamingwiki.com/wiki/ReShade#Common_fixes.
