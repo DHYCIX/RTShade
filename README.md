@@ -19,6 +19,8 @@ Some of the most heavily utilized visual shaders:
 
 ## Supported Games
 ### [Red Faction Guerilla (+ RE-Mars-tered)](https://imgsli.com/MTk4MDAw)
+> [!NOTE]
+> No access to fog in shader pipeline. Fixed in post.
 
 ### Tomb Raider (2013) (WIP)
 
