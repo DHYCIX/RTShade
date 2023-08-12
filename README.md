@@ -1,12 +1,21 @@
 # RTShade
 A collection of ReShade ray tracing shader presets, robust against depth buffer related artifacts.
 
-All presets come with pre-configured measures to combat artifacts like ambient occlusion or global illumination "shining through" fog, menus etc.
+## Main Features
+All presets come ray tracing enabled with pre-configured measures to combat artifacts like ambient occlusion or global illumination "shining through" fog, menus etc.
 
 Here is an example: https://imgsli.com/MTk3OTkz
 
 > [!NOTE]
 > The Ultra preset is WIP.
+
+## Shaders Used
+RTShade presets come with a multitude of varying shaders, all configured to be very close to the tone of the original un-modded game while enhancing it with features fit for a remastered experience. No Film Grain, no Chromatic Abberation, no Vignette, no Motion Blur.
+
+Some of the most heavily utilized visual shaders:
+- DH_Uber_RT
+- iMMERSE (MXAO, SMAA, Sharpen)
+- qUINT DoF
 
 ## SUPPORTED GAMES
 ### Red Faction Guerilla (+ RE-Mars-tered)
