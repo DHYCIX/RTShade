@@ -4,7 +4,7 @@ A collection of ReShade ray tracing shader presets, robust against depth buffer 
 ## Main Features
 All presets come ray tracing enabled with pre-configured measures to combat artifacts like ambient occlusion or global illumination "shining through" fog, menus etc.
 
-Here is an example: https://imgsli.com/MTk3OTkz
+Here is an example of [Fighting Fog with RTShade](https://imgsli.com/MTk3OTkz).
 
 > [!NOTE]
 > The Ultra preset is WIP.
@@ -18,9 +18,7 @@ Some of the most heavily utilized visual shaders:
 - qUINT DoF
 
 ## Supported Games
-### Red Faction Guerilla (+ RE-Mars-tered)
-
-https://imgsli.com/MTk4MDAw
+### [Red Faction Guerilla (+ RE-Mars-tered)](https://imgsli.com/MTk4MDAw)
 
 ### Tomb Raider (2013) (WIP)
 
