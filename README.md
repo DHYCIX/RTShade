@@ -17,14 +17,14 @@ Some of the most heavily utilized visual shaders:
 - iMMERSE (MXAO, SMAA, Sharpen)
 - qUINT DoF
 
-## SUPPORTED GAMES
+## Supported Games
 ### Red Faction Guerilla (+ RE-Mars-tered)
 
 https://imgsli.com/MTk4MDAw
 
 ### Tomb Raider (2013) (WIP)
 
-## INSTALLATION
+## Installation
 1. Download the latest release of this preset collection.
 2. From the folder '1. REST', extract the files ReshadeEffectShaderToggler.addon32 and ReshadeEffectShaderToggler.addon64 to the game's folder where the executable file is located that runs the game.
 3. From the folder '2. RTShade', open the folder that's named after the game you want to modify and extract the .ini file(s) to the same folder as in the step before.
