@@ -1,11 +1,19 @@
 # RTShade
 A collection of ReShade ray tracing shader presets, robust against depth buffer related artifacts.
 
-All presets come with pre-configured measures to combat artifacts like ambient occlusion or global illumination "shining through" fog, menus etc. Here is an example: https://imgsli.com/MTk3OTkz (The Ultra preset is WIP!)
+All presets come with pre-configured measures to combat artifacts like ambient occlusion or global illumination "shining through" fog, menus etc.
+
+Here is an example: https://imgsli.com/MTk3OTkz
+
+> [!NOTE]
+> The Ultra preset is WIP.
 
 ## SUPPORTED GAMES
-- Red Faction Guerilla (+ RE-Mars-tered)
-- more to come
+### Red Faction Guerilla (+ RE-Mars-tered)
+
+https://imgsli.com/MTk4MDAw
+
+### Tomb Raider (2013) (WIP)
 
 ## INSTALLATION
 1. Download the latest release of this preset collection.
