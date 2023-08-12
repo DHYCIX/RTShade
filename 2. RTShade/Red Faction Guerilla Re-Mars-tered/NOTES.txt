@@ -1,0 +1,9 @@
+- There was no possibility for me to add the RTShaders behind the game's fog and similar effects due to the game constantly crashing while looking up the responsible fog shaders for configuration. Thus artifacts get filtered out in post which results in slight emphasizing of bright textures. Much less intrusive than not filtering at all.
+
+- Disable Ambient Occlusion in the game settings menu (it's much too strong and blobby).
+
+- Shader artifacts will be visible in cutscenes for the first few moments.
+
+- The game randomly crashing every now and again stems from the game itself, not ReShade. Playing in 'Windowed Fullscreen' mode is supposed to be resolving this issue (can't confirm) but increases input latency.
+
+- The presets should be compatible with the original release version in standard DirectX 11 mode. You will only be able to get rid of the in-game AO by resorting to DX9 mode, though, which might result in shader incompatibilites. Most of them should work nevertheless.
